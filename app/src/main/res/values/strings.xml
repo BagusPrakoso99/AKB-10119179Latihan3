@@ -1,0 +1,35 @@
+<!--Muhamad Bagus Prakoso-10119179-IF6-->
+<resources>
+    <string name="app_name">10119179Latihan3</string>
+    <string name="walk_through_text">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="walk_through_button_start">Mulai</string>
+
+    <string name="check_code_text_title">Kode Keluarga</string>
+    <string name="check_code_text_sub">Ketikkan kode keluarga yang Ayah Bunda \nmiliki disini</string>
+    <string name="check_code_edit_hint_voucher">Tuliskan Kode Keluarga disini</string>
+    <string name="check_code_button_get_started">Masuk</string>
+    <string name="check_code_text_agreement">Dengan menekan tombol masuk berarti Anda menyetujui \n<b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="check_code_text_buy">Belum punya kode keluarga?</string>
+    <string name="check_code_button_buy">Beli Kode Keluarga Disini</string>
+
+    <string name="bio_name">Nama Panggilan Kamu</string>
+    <string name="bio_hint_name_holder">Contoh : Budi</string>
+    <string name="bio_age">Umur Kamu</string>
+    <string name="bio_age_holder">Contoh : 12</string>
+    <string name="next">Selanjutnya</string>
+
+    <string name="activation_done">Beres! Sekarang</string>
+    <string name="activation_able_to">\nudah bisa ngecek \npenggunaan HP</string>
+    <string name="activation_each">\ntiap hari buat bantu</string>
+    <string name="activation_make">\nngatur waktu :)</string>
+    <string name="activation_oke">Oke</string>
+
+    <string name="warning_title">Peringatan</string>
+    <string name="check_code_warning_empty_title">Kode Keluarga Kosong :(</string>
+    <string name="check_code_warning_empty_desc">Ups, Ayah Bunda belum memasukkan Kode Keluarganya ya</string>
+    <string name="check_code_warning_empty_title_name">Nama nya masih kosong :(</string>
+    <string name="check_code_warning_empty_desc_name">Ups, Kamu belum memasukkan nama ya</string>
+
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amen</string>
+    <string name="age_empty">Isi Umur terlebih dahulu ya Ayah Bunda:)</string>
+</resources>
